@@ -1,26 +1,42 @@
-# 📊 Sales Performance Dashboard
+# 📊 Sales Performance Dashboard (Power BI)
 
-## 📌 Overview
-This project analyzes sales performance using Power BI to identify trends, regional performance, and product insights.
+## 📌 Business Problem
+Organizations often lack clear visibility into sales performance across regions and products, leading to slow decision-making and missed opportunities.
 
 ## 🎯 Objective
-- Track revenue trends
-- Identify top and low-performing regions
-- Support business decision-making
+- Track total sales and growth trends
+- Identify top and underperforming regions
+- Analyze product-level performance
+- Enable data-driven decision-making
 
 ## 🛠 Tools Used
 - Power BI
-- Power Query
-- DAX
+- Power Query (Data Cleaning)
+- DAX (Measures & Calculations)
+
+## 📊 Dashboard Features
+- KPI Cards: Total Sales, Growth %, Orders
+- Sales by Region (Bar Chart)
+- Sales by Product (Bar Chart)
+- Monthly Sales Trend (Line Chart)
+- Filters: Region, Product, Date
 
 ## 📈 Key Insights
-- Region South shows lower performance
-- Top products contribute most of the revenue
-- Sales trends vary across months
+- Identified underperforming regions impacting overall revenue
+- Top products contribute majority of total sales
+- Sales trends vary significantly across months
 
-## 💡 Recommendations
-- Improve focus on underperforming regions
-- Optimize strategy for low-performing products
+## 💡 Business Recommendations
+- Focus on improving performance in low-performing regions
+- Optimize strategy for underperforming products
+- Monitor seasonal trends for better planning
 
 ## 📷 Dashboard Preview
-![Dashboard](sales-dashboard.png)  
+![Dashboard](sales-dashboard.png)
+
+## 🔗 Project Files
+- Power BI File (.pbix)
+- Dataset (Excel/CSV)
+
+## 👤 About Me
+I am a Data Analyst / Business Analyst with 9+ years of experience in process improvement and operations. I build dashboards and analyze data to improve business performance and decision-making.
